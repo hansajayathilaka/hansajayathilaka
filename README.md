@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hansa Jayathilaka
 =========================================================================================================================================
 
-Web & Blockchain Developer
+Web & Blockchain-based App Developer
 --------------------------
 
 I am highly motivated and a quick learner.
 
-* 🌍  I'm based in Kuliyapitiya
+* 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [hansajayathilaka@yahoo.com](mailto:hansajayathilaka@yahoo.com)
-* 🧠  I'm learning Cyber Security
-* 🤝  I'm open to collaborating on Django, Nodejs, Blockchain based applications
+* 🤝  I'm open to collaborating on Django, Nodejs, Blockchain-based applications
 
 ### Skills
 
